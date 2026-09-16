@@ -15,13 +15,13 @@
 
 <img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdsZHhkaGdsY2Jrd3M2bDhsanhpZ2VicTJpeXNiaml6MGRwOWp3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif" />
 
-<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7AA2F7&width=500&lines=Backend+dev+%F0%9F%96%A5%EF%B8%8F;Spotify+over+everyone+%3C3;Python%2C+TS%2C+C%2B%2B;Always+building+something" alt="Typing SVG" /></a></p>
+<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7AA2F7&width=500&lines=Backend+dev;Spotify+over+everyone+%3C3;Python%2C+TS%2C+C%2B%2B;Always+building+something" alt="Typing SVG" /></a></p>
 
 ###
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bequietanddrivefaraway.visitor-badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1433436525890375774&query=%24.data.activities%5B%3F%28%40.name%3D%3D%22Visual%20Studio%20Code%22%29%5D.details&label=coding&color=007ACC&style=flat&cacheSeconds=300" alt="coding" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1433436525890375774&query=%24.data.activities%5B%2A%5D.details&label=coding&color=007ACC&style=flat&cacheSeconds=300" alt="coding" />
   <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1433436525890375774&query=%24.data.spotify.song&label=listening%20to&color=1DB954&style=flat&cacheSeconds=300&logo=spotify" alt="spotify" /></a>
 </div>
 
@@ -41,7 +41,7 @@ class Ant:
 
 ###
 
-<h2 align="center">💻 Skills</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
