@@ -21,6 +21,8 @@
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bequietanddrivefaraway.visitor-badge" />
+  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1433436525890375774" alt="coding" />
+  <a href="https://dev.discordprofiles.me/openspotify/1433436525890375774"><img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1433436525890375774" alt="spotify" /></a>
 </div>
 
 ###
