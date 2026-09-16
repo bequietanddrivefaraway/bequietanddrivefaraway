@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID#gh-light-mode-only">
-    <img src="https://discord.c99.nl/widget/theme-5/YOUR_DISCORD_ID.png#gh-light-mode-only" />
+  <a href="https://discord.com/users/1433436525890375774#gh-light-mode-only">
+    <img src="https://discord.c99.nl/widget/theme-5/1433436525890375774.png#gh-light-mode-only" />
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID#gh-dark-mode-only">
-    <img src="https://discord.c99.nl/widget/theme-4/YOUR_DISCORD_ID.png#gh-dark-mode-only" />
+  <a href="https://discord.com/users/1433436525890375774#gh-dark-mode-only">
+    <img src="https://discord.c99.nl/widget/theme-4/1433436525890375774.png#gh-dark-mode-only" />
   </a>
 </p>
 
