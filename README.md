@@ -21,8 +21,8 @@
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bequietanddrivefaraway.visitor-badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1433436525890375774&query=%24.data.activities%5B%2A%5D.details&label=coding&color=007ACC&style=flat&cacheSeconds=300" alt="coding" />
-  <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1433436525890375774&query=%24.data.spotify.song&label=listening%20to&color=1DB954&style=flat&cacheSeconds=300&logo=spotify" alt="spotify" /></a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1433436525890375774&query=%24.data.activities%5B%2A%5D.details&label=coding&color=007ACC&style=flat&cacheSeconds=300&v=2" alt="coding" />
+  <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1433436525890375774&query=%24.data.spotify.song&label=listening%20to&color=1DB954&style=flat&cacheSeconds=300&logo=spotify&v=2" alt="spotify" /></a>
 </div>
 
 ###
