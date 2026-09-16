@@ -21,8 +21,8 @@
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bequietanddrivefaraway.visitor-badge" />
-  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1433436525890375774" alt="coding" />
-  <a href="https://dev.discordprofiles.me/openspotify/1433436525890375774"><img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1433436525890375774" alt="spotify" /></a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1433436525890375774&query=%24.data.activities%5B%3F%28%40.name%3D%3D%22Visual%20Studio%20Code%22%29%5D.details&label=coding&color=007ACC&style=flat&cacheSeconds=300" alt="coding" />
+  <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1433436525890375774&query=%24.data.spotify.song&label=listening%20to&color=1DB954&style=flat&cacheSeconds=300&logo=spotify" alt="spotify" /></a>
 </div>
 
 ###
