@@ -30,9 +30,9 @@
 ```py
 class Ant:
     def __init__(self):
-        self.role = 'Backend dev'
+        self.role = 'Developer'
         self.languages = ['python', 'typescript', 'javascript', 'c', 'c++']
-        self.interests = ['backend', 'discord bots', 'roblox', 'tooling']
+        self.interests = ['backend', 'discord bots', 'roblox', 'tooling', 'exploits', 'websites']
         self.environment = {
             'editor': 'VSCode',
         }
