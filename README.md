@@ -31,8 +31,8 @@
 class Ant:
     def __init__(self):
         self.role = 'Developer'
-        self.languages = ['python', 'typescript', 'javascript', 'c', 'c++']
-        self.interests = ['backend', 'discord bots', 'roblox', 'tooling', 'exploits', 'websites']
+        self.languages = ['python', 'typescript', 'javascript', 'c', 'c++', 'react']
+        self.interests = ['backend', 'discord bots', 'roblox', 'tooling', 'exploits', 'websites', 'reverse engineering']
         self.environment = {
             'editor': 'VSCode',
         }
